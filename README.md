@@ -1,6 +1,6 @@
 ## Bryan Linares Gonzaléz 
 ## Blingon0901
-# Ejercicio 1
+<a href: ># Ejercicio 1
 <p> A continuación, se te presenta un documento web con algunos errores de sintaxis y a nivel
 de estructura del documento web, corrígelos. 
 
@@ -31,3 +31,44 @@ En este ejercicio no debes usar css.</p>
 ● Subraya Nombre, Email y Teléfono de los datos personales de los empleados.<br>
 Aplica los estilos necesarios para que el ejercicio se vea como el de la imagen de abajo.<br>
 Los estilos deberán ir en un fichero css aparte del documento html.</p>
+
+
+# Ejercicio 5
+<p>Vamos a practicar las etiquetas de quotation a la vez que le damos un poco de estilo.
+Los requisitos a cumplir son:<br>
+● Body<br>
+○ Fuente: Arial, sans-serif<br>
+○ Color de fondo: blanco<br>
+○ Color: 333<br>
+● Encabezados<br>
+○ H1<br>
+■ Tamaño de letra: 24px<br>
+■ Color: #003366<br>
+○ H2<br>
+■ Tamaño de letra: 20px<br>
+■ Color: #006699<br>
+● Párrafos<br>
+○ Tamaño de fuente: 16px<br>
+● Blockquote<br>
+○ Tamaño de fuente: 18px<br>
+○ Color: #444<br>
+○ Color de fondo: #e0f7fa<br>
+● Abbr<br>
+○ Color: #d32f2f<br>
+● Cite<br>
+○ Estilo de fuente: Italic<br>
+○ Color: #d32f2f<br>
+● Address<br>
+○ Tamaño de fuente: 16px<br>
+○ Color: #e0f7fa<br>
+● a<br>
+○ Color: #00796b<br>
+● bdo<br>
+○ Izquierda a derecha<br>
+■ Color: #00796b<br>
+○ Derecha a izquierda<br>
+■ Color: #d32f2f<br>
+Aplica los estilos necesarios para que el ejercicio se vea como la imagen de abajo.<br>
+8<br>
+En este ejercicio utilizarás el atributo style dentro de las etiquetas para aplicar los estilos.<br>
+No crearás un archivo CSS aparte.</p>

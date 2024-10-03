@@ -1,6 +1,6 @@
 ## Bryan Linares Gonzaléz 
 ## Blingon0901
-<a href=> # Ejercicio 1
+# <a href= "https://github.com/Bryanliinaress/HTML-y-CSS/blob/main/Ejercicio1/Ejercicio1.html">  Ejercicio 1
 <p> A continuación, se te presenta un documento web con algunos errores de sintaxis y a nivel
 de estructura del documento web, corrígelos. 
 

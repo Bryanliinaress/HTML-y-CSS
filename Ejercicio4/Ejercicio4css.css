@@ -1,0 +1,21 @@
+h1{
+    color: red;
+}
+h2{
+    text-align: center;
+    color: blue;
+}
+#Enunciado_verde{
+    text-align: center;
+    color: green;
+}
+div{   
+    background-color: gray;
+    border: 2px solid rgb(187, 182, 182);
+}
+#Borde_Gordo{
+    border: 5px solid black;
+}
+#Borde_normal{
+    border: 3px solid black;
+}

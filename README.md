@@ -25,7 +25,7 @@ datos personales y estudios.<br>
 El documento debe quedar como el de la imagen de abajo.<br>
 En este ejercicio no debes usar css.</p>
 
-# Ejercicio 4
+# <a href= "https://github.com/Bryanliinaress/HTML-y-CSS/tree/main/Ejercicio4"> Ejercicio 4
 <p>Partiendo del ejercicio 02 haz los siguientes cambios:<br>
 ● Elimina el formato con (pre) y usa una lista.<br>
 ● Subraya Nombre, Email y Teléfono de los datos personales de los empleados.<br>

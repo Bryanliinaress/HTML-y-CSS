@@ -14,7 +14,7 @@ div{
     border: 2px solid rgb(187, 182, 182);
 }
 #Borde_Gordo{
-    border: 5px solid black;
+    border: 4px double black;
 }
 #Borde_normal{
     border: 3px solid black;

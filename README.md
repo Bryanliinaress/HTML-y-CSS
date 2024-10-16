@@ -33,7 +33,7 @@ Aplica los estilos necesarios para que el ejercicio se vea como el de la imagen 
 Los estilos deberán ir en un fichero css aparte del documento html.</p>
 
 
-# Ejercicio 5
+# <a href= "https://github.com/Bryanliinaress/HTML-y-CSS/tree/main/Ejercicio5"> Ejercicio 5
 <p>Vamos a practicar las etiquetas de quotation a la vez que le damos un poco de estilo.
 Los requisitos a cumplir son:<br>
 ● Body<br>

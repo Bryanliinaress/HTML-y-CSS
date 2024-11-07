@@ -1,0 +1,12 @@
+body{
+    background-color: #33e7ff;
+    font-family: sans-serif;
+}
+h1{
+    margin: auto;
+    color: #005a66;
+    font-size: 4rem;
+    letter-spacing: 2rem;
+    text-align: center;
+    text-transform: uppercase;
+}

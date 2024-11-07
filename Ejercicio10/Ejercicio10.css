@@ -1,0 +1,45 @@
+@font-face {
+    font-family: Titulo;
+    src: url(fonts/RibeyeMarrow-Regular.ttf) format("truetype");
+}
+@font-face {
+    font-family: Citas_Latin;
+    src: url(fonts/Lobster-Regular.ttf) format(truetype);
+}
+@font-face {
+    font-family: Citas_Español;
+    src: url(fonts/JustAnotherHand-Regular.ttf) format(truetype);
+}
+body{
+    background-color: #ccac4d;
+}
+h1{
+    font-family: Titulo;
+    font-size: 3rem;
+    letter-spacing: 1.5rem;
+    text-align: center;
+    text-transform: uppercase;
+}
+#p.intro{
+    margin-left: 30%;
+    margin-right: 30%;
+    font-family: sans-serif ;
+    text-align: left;
+    line-height: 200%;
+}
+cite{
+    text-decoration: underline;
+}
+#p.latin{
+    margin: auto;
+    font-family: Citas_Latin;
+    font-size: 2.5rem;
+}
+#p.español{
+    margin-bottom: 3rem;
+    color: white;
+    font-family: Citas_Español;
+    letter-spacing: 1px;
+    text-align: right;
+    font-size: 3.5rem;
+}

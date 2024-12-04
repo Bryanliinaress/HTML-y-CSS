@@ -1,0 +1,83 @@
+html{
+    width: 100%;
+    margin: 0;
+}
+main{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+div{
+    display: flex;
+    flex-direction: row;
+}
+#columna{
+    display: flex;
+    flex-direction: column;
+    padding-left: 100px;
+    justify-content: left;
+
+}
+footer{
+    background-color: rgb(20, 32, 88);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: small;
+    position: absolute;
+    bottom: 0;
+    height: 13%;
+    width: 100%;
+    color: white;
+}
+section{
+    padding: 10px;
+}
+nav{
+    size: 100%;
+    background-color: rgb(78, 125, 197);
+    align-content: center;
+}
+nav ul{
+    list-style-type: none;
+    display: flex;
+    flex-flow: wrap;
+
+}
+#masInformacion{
+    display: flex;
+    flex-direction: column;
+    padding-left: 100px;
+    justify-content: left;
+}
+audio{
+    width: 92%;
+}
+nav li{
+    padding-right: 50px;
+}
+nav ul li a{
+    text-decoration: none;
+    color: white;
+}
+nav ul li a:hover{
+    color: rgba(72, 255, 0, 0.678);
+}
+header{
+    width: 100%;
+    color: white;
+    background-color: rgb(21, 21, 58);
+    display: flex;
+    align-content: center;
+    border-bottom: 1px solid white;
+}
+body{
+    width: 100%;
+    background-color: rgb(238, 237, 237);
+    margin: 0;
+}
+#paginaSeleccionada{
+    color: rgba(72, 255, 0, 0.678);
+}

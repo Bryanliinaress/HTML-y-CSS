@@ -94,11 +94,11 @@ restricciones CSS:
 
 # <a href= "https://github.com/Bryanliinaress/HTML-y-CSS/blob/main/Ejercicio10/Ejercicio10.html">  Ejercicio 10
 <p> Etiquetas: <br>
-● Una etiqueta de sección <h1> para el título.<br>
-● Varias etiquetas de párrafo <p>, una para cada cita.<br>
+● Una etiqueta de sección "<h1>" para el título.<br>
+● Varias etiquetas de párrafo "<p>", una para cada cita.<br>
 ● El nombre del escritor en el primer párrafo lleva la etiqueta <strong>.<br>
-● Los nombres de las obras se ven en cursiva. Podrían utilizarse etiquetas <em>, pero<br>
-para este tipo de información es más adecuado el uso de la etiqueta <cite>, que<br>
+● Los nombres de las obras se ven en cursiva. Podrían utilizarse etiquetas "<em>", pero<br>
+para este tipo de información es más adecuado el uso de la etiqueta "<cite>", que<br>
 también se ve en cursiva cuando no se aplica ninguna hoja de estilo.<br>
 
 </p>
@@ -106,7 +106,7 @@ también se ve en cursiva cuando no se aplica ninguna hoja de estilo.<br>
 # <a href= "https://github.com/Bryanliinaress/HTML-y-CSS/blob/main/Ejercicio11/Ejercicio11.html">  Ejercicio 11
 <p>
   Etiquetas<br>
-Las únicas etiquetas de bloque utilizadas son (<h1>), (<p>) y (<div>).<br>
+Las únicas etiquetas de bloque utilizadas son "<h1>", "<p>" y "<div>".<br>
 Clases<br>
 Cada cita tiene la letra inicial diferente al resto del párrafo. Se podría utilizar una etiqueta<br>
 <span> con clase, pero puesto que se trata del primer carácter, se puede utilizar<br>

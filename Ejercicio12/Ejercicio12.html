@@ -1,16 +1,43 @@
 <!DOCTYPE html>
-<html>
-    <head>
-    <meta charset="utf-8" content="Ejercicio_12.html">
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario de Proyecto</title>
     <link rel="stylesheet" href="Ejercicio12.css">
-    <title>Ejercicio12</title>
-    </head>
-    <body>
+</head>
+
+<body>
+    <form action="">
         <fieldset>
-            <fieldset>
-                <legend>Datos personales </legend>
-                <form action="imput">Nombre:  <input form="Nombre"></form>
-            </fieldset>
-        </fieldset>    
-    </body>
+            <legend>Datos personales</legend>
+            <label for="nombre">Nombre:</label> <input type="text" id="nombre" placeholder="Su nombre" required> <br>
+            <label for="email">Correo electrónico:</label> <input type="email" id="email"
+                placeholder="nombre@servidor.com" required>
+        </fieldset>
+        <br>
+        <fieldset>
+            <legend>Datos del proyecto</legend>
+            <div> <label for="descripcion">Breve descripción del proyecto:</label>
+                <br>
+                <textarea id="descripcion" rows="4"></textarea>
+            </div>
+            <div> <label>Estado actual del proyecto:</label>
+                <div>
+                    <label>
+                        <input type="radio" name="estado" value="planteamiento" > En planteamiento
+                        <input type="radio" name="estado" value="planificacion"> En planificación
+                        <input type="radio" name="estado" value="ejecucion"> En ejecución
+                        <input type="radio" name="estado" value="finalizado"> Ya finalizado
+                    </label>
+                </div>
+            </div>
+            <label for="presupuesto">Presupuesto aproximado (en €):</label> <input type="text" id="presupuesto"
+                    value="1000" > 
+        </fieldset>
+        <button type="submit"  >Enviar</button>
+    </form>
+</body>
+
 </html>

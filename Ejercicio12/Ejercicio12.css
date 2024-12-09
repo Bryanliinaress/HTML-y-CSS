@@ -1,53 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #eed639a8;
+}
 form{
-    text-align: center;
+    align-content: center;
     font-size: 14px;
     color: #6b121b;
     border: 1px dashed #b8bfcb;
     border-radius: 7px;
+    background-color: rgba(121, 186, 181, 0.561);
     padding: 14px;
 }
+form :required{
+    border-color: #4aa248;
+    box-shadow: 3px #4aa248;
+}
+form :invalid{
+    border-color: #ff7f7f;
+    box-shadow:  3px #ff7f7f;
+}
 fieldset{
-    border: 1px dashed;
+    border: 1px dashed gray;
     border-radius: 6px;
     margin-bottom: 15px;
     padding-top: 0px;
-    padding-bottom: 0px ;
-    padding-left: 20px ;
+    padding-bottom: 0px;
+    padding-left: 20px;
     padding-right: 20px;
-}
-legend{
-    color: grey;
-    font-size: 13px;
-    margin-bottom: 16px;
-}
-input{
-    background-color: white;
-    border-radius: 4px;
-    color: #264f96;
-    font-size: 16px;
-    padding-top: 3px;
-    padding-bottom: 3px;
-    padding-left: 3px;
-    padding-right: 3px;
-    outline: none;
-}
-button{
-    padding-top: 6px;
-    padding-bottom: 6px;
-    color: white;
-    background-color: #2a477a;
-    font-size: 14px;
-}
-button:hover{
-    color: #5376b2;
 }
 textarea{
     width: 450px;
-    height: 50px; ;
+    height: 50px;
     max-width: 493px;
-    min-height: 50px;
-    max-height: 200px;
     min-width: 300px;
+    max-height: 200px;
+    min-height: 50px;
     margin-top: 4px;
     border-radius: 4px;
     color: #264f96;
@@ -57,11 +48,31 @@ textarea{
     padding-bottom: 3px;
     padding-left: 10px;
 }
-#Campos_Requeridos{
-    border: #4aa248;
-    box-shadow: 0 0 50 #4AA248;
+
+input{
+    background-color: white;
+    border-radius: 4px;
+    color: #264f96;
+    font-size: 16px;
+    padding-top: 3px;
+    padding-left: 10px;
+    padding-bottom: 3px;
+    padding-right: 3px;
+    outline: none;
 }
-#Campos_Invalidos{
-    border: #ff7f7f;
-    box-shadow: 0 0 50 #ff7f7f;
+legend{
+    color: gray;
+    font-size: 13px;
+    margin-bottom: 16px;
+}
+button{
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 30px;
+    padding-right: 30px;
+    color: white;
+    background-color: #2a477a;
+    font-size: 14px;
+    border-radius: 3px;
+    cursor: pointer;
 }

@@ -72,3 +72,104 @@ Aplica los estilos necesarios para que el ejercicio se vea como la imagen de aba
 8<br>
 En este ejercicio utilizarás el atributo style dentro de las etiquetas para aplicar los estilos.<br>
 No crearás un archivo CSS aparte.</p>
+
+# <a href= "https://github.com/Bryanliinaress/HTML-y-CSS/blob/main/Ejercicio6/queen.html">  Ejercicio 6
+<p>Crea la siguiente página web con los cheros “queen.html” y “estilos.css”, teniendo en<br>
+cuenta las siguientes indicaciones:</p>
+
+# <a href= "https://github.com/Bryanliinaress/HTML-y-CSS/blob/main/Ejercicio7/Ejercicio7.html">  Ejercicio 7
+<p>Realiza la web que se muestra en la imagen de abajo teniendo en cuenta las siguientes
+restricciones del css.</p>
+
+
+# <a href= "https://github.com/Bryanliinaress/HTML-y-CSS/blob/main/Ejercicio8/Ejercicio8.html">  Ejercicio 8
+<p>Realiza la web que se muestra a continuación teniendo en cuenta las siguientes
+restricciones CSS:
+</p>
+
+# <a href= "https://github.com/Bryanliinaress/HTML-y-CSS/blob/main/Ejercicio9/Ejercicio9.html">  Ejercicio 9
+<p>
+  Realiza la web que se muestra a continuación teniendo en cuenta las siguientes
+restricciones CSS:
+</p>
+
+# <a href= "https://github.com/Bryanliinaress/HTML-y-CSS/blob/main/Ejercicio10/Ejercicio10.html">  Ejercicio 10
+<p>
+  Etiquetas
+● Una etiqueta de sección <h1> para el título.
+● Varias etiquetas de párrafo <p>, una para cada cita.
+● El nombre del escritor en el primer párrafo lleva la etiqueta <strong>.
+● Los nombres de las obras se ven en cursiva. Podrían utilizarse etiquetas <em>, pero
+para este tipo de información es más adecuado el uso de la etiqueta <cite>, que
+también se ve en cursiva cuando no se aplica ninguna hoja de estilo.
+
+</p>
+
+# <a href= "https://github.com/Bryanliinaress/HTML-y-CSS/blob/main/Ejercicio11/Ejercicio11.html">  Ejercicio 11
+<p>
+  Etiquetas
+Las únicas etiquetas de bloque utilizadas son <h1>, <p> y <div>.
+Clases
+Cada cita tiene la letra inicial diferente al resto del párrafo. Se podría utilizar una etiqueta
+<span> con clase, pero puesto que se trata del primer carácter, se puede utilizar
+simplemente el pseudo-elemento ::rst-letter, que no requiere añadir nada al código
+fuente html.
+
+</p>
+
+# <a href= "https://github.com/Bryanliinaress/HTML-y-CSS/blob/main/Ejercicio12/Ejercicio12.html">  Ejercicio 12
+<p>
+  Estilos
+● Formulario:
+○ Centrado horizontalmente
+○ Tamaño de fuente: 14px.
+○ Color del texto: #6B121B
+○ Borde: 1px punteado #B8BFCB.
+○ Radio del borde: 7px.
+○ Padding: 14px.
+● Fieldset:
+○ Borde: 1px punteado gris
+○ Radio del borde: 6px.
+○ Margen inferior: 15px.
+○ Padding superior 0px;
+○ Padding arriba y abajo: 0px
+○ Padding izquierda y derecha: 20px
+● Legend:
+○ Color del texto: gris
+○ Tamaño de letra: 13px
+○ Margen inferior: 16px
+● Input:
+23
+○ Color de fondo: blanco
+○ Radio del borde: 4px
+○ Color del texto: #264F96
+○ Tamaño de fuente: 16px
+○ Padding superior: 3px
+○ Padding derecha: 3px
+○ Padding inferior: 3px
+○ Padding izquierda: 10px
+○ Outline none (Esto permite que no se resalte el input al colocarnos en él)
+</p>
+
+# <a href= "https://github.com/Bryanliinaress/HTML-y-CSS/blob/main/Ejercicio13/Ejercicio13.html">  Ejercicio 13
+<p>
+  Ejercicio 13
+De forma completamente autónoma reproduce con la mayor exactitud posible la siguiente
+estructura de una página web.
+La sección que se ve en la imagen corresponde con la pestaña “Inicio” del panel de
+navegación.
+En los recursos de la tarea tenéis la imagen que se adjunta más abajo para que podáis
+abrirla y analizarla con mayor detalle.
+</p>
+
+# <a href= "https://github.com/Bryanliinaress/HTML-y-CSS/blob/main/Ejercicio14//Ejercicio13/Ejercicio14.html">  Ejercicio 14
+<p>
+  De forma completamente autónoma reproduce con la mayor exactitud posible la siguiente
+estructura de una página web.
+La sección que se ve en la imagen corresponde con la pestaña “Nosotros” del panel de
+navegación.
+En los recursos de la tarea tenéis la imagen que se adjunta más abajo para que podáis
+abrirla y analizarla con mayor detalle
+</p>
+
+

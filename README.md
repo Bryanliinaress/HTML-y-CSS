@@ -106,7 +106,7 @@ también se ve en cursiva cuando no se aplica ninguna hoja de estilo.<br>
 # <a href= "https://github.com/Bryanliinaress/HTML-y-CSS/blob/main/Ejercicio11/Ejercicio11.html">  Ejercicio 11
 <p>
   Etiquetas<br>
-Las únicas etiquetas de bloque utilizadas son <h1>, <p> y <div>.<br>
+Las únicas etiquetas de bloque utilizadas son (<h1>), (<p>) y (<div>).<br>
 Clases<br>
 Cada cita tiene la letra inicial diferente al resto del párrafo. Se podría utilizar una etiqueta<br>
 <span> con clase, pero puesto que se trata del primer carácter, se puede utilizar<br>
@@ -149,7 +149,7 @@ fuente html.<br>
 ○ Outline none (Esto permite que no se resalte el input al colocarnos en él)<br>
 </p>
 
-# <a href= "https://github.com/Bryanliinaress/HTML-y-CSS/blob/main/Ejercicio13/Ejercicio13.html">  Ejercicio 13
+# <a href= "https://github.com/Bryanliinaress/HTML-y-CSS/blob/main/Ejercicio13/Ejercicio13_Inicio.html">  Ejercicio 13
 <p>
   Ejercicio 13<br>
 De forma completamente autónoma reproduce con la mayor exactitud posible la siguiente<br>
@@ -160,7 +160,7 @@ En los recursos de la tarea tenéis la imagen que se adjunta más abajo para que
 abrirla y analizarla con mayor detalle.<br>
 </p>
 
-# <a href= "https://github.com/Bryanliinaress/HTML-y-CSS/blob/main/Ejercicio14//Ejercicio13/Ejercicio14.html">  Ejercicio 14
+# <a href= "https://github.com/Bryanliinaress/HTML-y-CSS/blob/main/Ejercicio14//Ejercicio13/Ejercicio14_Nosotros.html">  Ejercicio 14
 <p>
   De forma completamente autónoma reproduce con la mayor exactitud posible la siguiente<br>
 estructura de una página web.<br>
